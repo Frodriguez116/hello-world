@@ -2,4 +2,4 @@
 Git Practice
 
 
-Hello My name is Fernando Rodriguez I like playing chess.
+Hello, My name is Fernando Rodriguez I like playing chess.
